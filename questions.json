@@ -1,102 +1,18 @@
-[
-  {
-    "question": "Pakistan ka capital kya hai?",
-    "options": [
-      "Karachi",
-      "Lahore",
-      "Islamabad",
-      "Peshawar"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "5 × 8 = ?",
-    "options": [
-      "35",
-      "40",
-      "45",
-      "50"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Water ka chemical formula kya hai?",
-    "options": [
-      "CO2",
-      "H2O",
-      "O2",
-      "NaCl"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Pakistan kis saal azaad hua?",
-    "options": [
-      "1945",
-      "1946",
-      "1947",
-      "1948"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "12 + 15 = ?",
-    "options": [
-      "25",
-      "26",
-      "27",
-      "28"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Suraj kis simt se nikalta hai?",
-    "options": [
-      "West",
-      "North",
-      "East",
-      "South"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Earth ka natural satellite kaunsa hai?",
-    "options": [
-      "Mars",
-      "Moon",
-      "Venus",
-      "Sun"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "9² = ?",
-    "options": [
-      "72",
-      "81",
-      "91",
-      "99"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Pakistan ka national animal kya hai?",
-    "options": [
-      "Markhor",
-      "Lion",
-      "Tiger",
-      "Deer"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "100 ÷ 4 = ?",
-    "options": [
-      "20",
-      "25",
-      "30",
-      "40"
-    ],
-    "answer": 1
-  }
+{
+"type":"mcq",
+
+"questions":[
+
+{
+"question":"2+2=?",
+"options":[
+"3",
+"4",
+"5",
+"6"
+],
+"answer":1
+}
+
 ]
+}
