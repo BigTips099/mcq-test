@@ -1,18 +1,5 @@
 {
-"type":"mcq",
-
-"questions":[
-
-{
-"question":"2+2=?",
-"options":[
-"3",
-"4",
-"5",
-"6"
-],
-"answer":1
-}
-
-]
+"type":"text",
+"title":"Test Closed",
+"message":"Abhi test available nahi hai."
 }
